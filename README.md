@@ -52,6 +52,9 @@ Data Analysis – Created Pivot Tables to summarize sales, profit, customers, st
 Dashboard Creation – Designed interactive charts, maps, and KPIs using Pivot Charts and Slicers.
 Insights Generation – Analyzed business performance to identify trends, top-performing products, customers, and regions.
 
+Dashboard Interaction
+- <a href="https://github.com/chetanbaviskar123/Excel-Sales-Dashboard/blob/main/Screenshot%20(1233).png">View Dashboard</a>
+
 ## 📈 Sales Dashboard Insights:
 1. Storage and Binders are the Highest Revenue Generators
 The Storage category generated the highest sales (≈ 50.3K), followed by Binders (≈ 43.5K).
@@ -92,7 +95,8 @@ Strengthen loyalty programs for top customers.
 Plan promotional campaigns before peak sales months.
 Monitor yearly sales trends to support strategic planning.
 
-Dashboard Interaction
-- <a href="https://github.com/chetanbaviskar123/Excel-Sales-Dashboard/blob/main/Screenshot%20(1233).png">View Dashboard</a>
+## Dashboard: 
+<img width="1366" height="470" alt="Screenshot (1233)" src="https://github.com/user-attachments/assets/18be02b1-0870-4ed1-9d4f-378910c271bc" />
+
 
 
