@@ -13,4 +13,6 @@ Visualize sales by state.
 Monitor monthly sales trends.
 Provide interactive filtering using slicers.
 
+## Dataset used
+- <a href="https://github.com/chetanbaviskar123/Excel-Sales-Dashboard/blob/main/SalesDashboard.xlsx">Dataset</a>
 
