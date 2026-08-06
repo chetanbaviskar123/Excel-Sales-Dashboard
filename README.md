@@ -16,7 +16,7 @@ Provide interactive filtering using slicers.
 ## Dataset used
 - <a href="https://github.com/chetanbaviskar123/Excel-Sales-Dashboard/blob/main/SalesDashboard.xlsx">Dataset</a>
 
-## 📂 Dataset Information
+## 📂 Dataset Information:
 
 The dataset includes the following fields:
 Order Date
@@ -31,4 +31,7 @@ Sales
 Quantity
 Profit
 The data represents retail sales transactions from 2014 to 2017 across multiple U.S. states and product categories.
+
+Dashboard Interaction
+- <a href="https://github.com/chetanbaviskar123/Excel-Sales-Dashboard/blob/main/Screenshot%20(1233).png">View Dashboard</a>
 
